@@ -1,3 +1,3 @@
 # python-workshop
 
-Python notes for workshop students conducted at International School Lahore (ISL)
+Python notes for workshop conducted at International School Lahore (ISL)
