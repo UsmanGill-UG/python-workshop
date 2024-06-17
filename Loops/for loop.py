@@ -1,4 +1,4 @@
-# For loop runs till the condition is true
+# For loop run for a specified amount of times
 
 # When i will become 5, the loop will stop so 5 in not printed
 for i in range(5):
